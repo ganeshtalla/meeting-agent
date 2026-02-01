@@ -48,6 +48,8 @@ uploads/*
 !uploads/.gitkeep
 processed/*
 !processed/.gitkeep
+backend/processed/*
+backend/uploads/*
 
 # Test outputs
 backend/test_outputs/
